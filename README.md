@@ -1,2 +1,49 @@
-# resume
-hyyy
+<h1 align="center"> LAVETI KOWSHIK </h1>
+    <h3 align="center"><a href="mailto:kowshiklaveti15@gmail.com">kowshiklaveti15@gmail@gmail.com</a> | 91+ 9346731608 | nidadavolu,Andhra Pradesh </a></h3><hr>
+    <h2 align="center">CAREER OBJECTIVE</h2>
+    <p>Dedicated and self-motivated third-year B.Tech student in data science with a solid understanding of Python, Machine Learning, Data Structures, SQL, and Artificial Intelligence concepts. Passionate about solving real-world problems through technology and eager to contribute to innovative projects while gaining practical industry experience.</p><br>
+    <br>
+    <h2 align="center">EDUCATION</h2>
+    <hr>
+    <table border="1" align="center">
+        <tr>
+            <th>Degree</th>
+            <th>Institution</th>
+            <th>Duration</th>
+        </tr>
+        <tr>
+            <td>Bachelor of Technology in Artificial Intelligence and Machine Learning</td>
+            <td>Sasi institute of engineering and technology</td>
+            <td>2024 - 2028</td>
+        </tr>
+        <tr>
+            <td>Intermediate</td>
+            <td>vikas junior college samsrigudem</td>
+            <td>2021 - 2023</td>
+            </tr>
+            <tr>
+                <td>SSC</td>
+                <td>montessori english medium school,nidadavolu</td>
+                <td>2019 - 2021</td>
+            </tr>
+    </table>
+    <br>
+    <h2 align="center">Projects</h2>
+    <hr>
+    <ul><li><h3>IoT-Based Fire Fighting Robot</h3></li></ul>
+<p>Developed an IoT-enabled fire-fighting robot capable of detecting fire using flame and temperature sensors and responding automatically to potential fire hazards. Integrated a microcontroller with wireless communication to enable real-time monitoring and remote control through an IoT platform. Designed the system to send instant alerts, navigate toward the fire source, and activate a water pump to suppress flames. The project demonstrates the practical application of IoT, embedded systems, automation, and sensor integration for improving fire safety.</p>
+
+<h2 align="center">Technical Skills</h2>
+<hr>
+<ul>
+    <li><b>Programming Languages:</b> Python, C, Java</li>
+    <li><b>Core Concepts:</b>Data Structures and Algorithms,Object-Oriented Programming(OOP)</li>
+    <li><b>AI/ML:</b>Supervised Learning Basics,Model Evaluation</li>
+    <li><b>Web Development:</b>HTML, CSS, JavaScript</li>
+    <li><b>Embedded Systems:</b>Microcontroller Programming</li>
+</ul>
+<h2 align="center">Achievements</h2>
+<hr>
+<ul>
+    <li>Got selected for the Internal <b>Smart India Hackathon 2025</b></li>
+</ul>
