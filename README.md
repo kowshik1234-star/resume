@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background: #f4f6f9;
+      color: #333;
+    }
+    .resume-container {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      max-width: 800px;
+      margin: auto;
+      text-align: center;
+    }
+    h1 {
+      color: #2c3e50;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    h2 {
+      color: #34495e;
+      margin-top: 0;
+    }
+    h3, h4, h5, h6 {
+      color: #2c3e50;
+      margin-top: 25px;
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 5px;
+      text-align: left;
+    }
+    p, li {
+      font-size: 1em;
+      line-height: 1.6;
+    }
+    ol, ul {
+      margin-left: 20px;
+      text-align: left;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    table th, table td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: center;
+    }
+    table th {
+      background-color: #3498db;
+      color: white;
+    }
+    table tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+    .profile-pic {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #3498db;
+      margin-bottom: 15px;
+    }
+    .declaration {
+      margin-top: 20px;
+      font-style: italic;
+      color: #555;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <div class="resume-container">
+    <!-- Profile Picture -->
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiEVb78ulQVqIJ18EczW0FW0z5_cCiyqO9YN9naoLpqU_O6FTOUNjOPy1L&s=10" alt="Profile Picture" class="profile-pic">
+
+    <h1>Resume</h1>
+    <h2>John Doe</h2>
+   
+    <h3>About Me</h3>
+    <p>My name is John Doe, and I am a web developer with a passion for creating interactive and user-friendly websites. I have experience in HTML, CSS, JavaScript, and various front-end frameworks.</p>
+   
+    <h3>Skills</h3>
+    <ol>
+      <li>Python</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>Problem Solving</li>
+    </ol>
+   
+    <h4>Education</h4>
+    <table>
+      <tr>
+        <th>Qualification</th>
+        <th>Percentage</th>
+      </tr>
+      <tr>
+        <td>Site Engineering</td>
+        <td>90%</td>
+      </tr>
+      <tr>
+        <td>Akrg Intermediate</td>
+        <td>90%</td>
+      </tr>
+      <tr>
+        <td>High School</td>
+        <td>72%</td>
+      </tr>
+    </table>
+   
+    <h5>Certifications</h5>
+    <ul>
+      <li>Python Programming</li>
+      <li>Web Development</li>
+      <li>Data Analysis</li>
+    </ul>
+   
+    <h6>Declaration</h6>
+    <p class="declaration">I hereby declare that the information provided above is true and accurate to the best of my knowledge.</p>
+  </div>
+</body>
+</html>
+
